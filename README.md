@@ -1,4 +1,4 @@
-# 生成-回溯理论（Generate-Retrospective-Theory）
+# 生成唯一性理论（Theory of Generative Uniqueness）
 本仓库收录了“生成-回溯理论（Generation-Retrospective-Theory）”从最初想法到理论雏形的完整发展过程。
 该理论旨在描述时间内部行动者在面对未来时的选择体验、决策逻辑与实践必然性，提出“未来处于回溯唯一但当下开放状态”的核心观点： 
 - 历史轨迹在生成完成后形成唯一记录；
