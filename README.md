@@ -53,7 +53,10 @@
 - **更新日志** → 
 
 ### 主要文件
-- 
+- [`Latest documents`](https://github.com/xixixi01489/Theory-of-Generative-Uniqueness/tree/main/Latest%20version)) - 最新理论版本文件
+- [`core_concepts.md`](core_concepts.md) - 核心概念快速索引
+- [`faq.md`](faq.md) - 常见问题解答
+- [`thinking_process.md`](thinking_process.md) - 我的思考过程记录
 
 ---
 
